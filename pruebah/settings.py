@@ -25,7 +25,7 @@ SECRET_KEY = 'msi*v1tvzbs(vw^s6+ky0+wi)mt5%cy(s62r6cc$sch=i2qmba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['prueba-h.herokuapp.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
