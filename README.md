@@ -1,4 +1,2 @@
 # pruebah
-prueba sencilla de aplicacion django para subir a heroku
-Esto es un cambio para probar el commit
-Otro cambio por que me habia equivocado
+simple try to deploy a django app on heroku, succesfully completed and ready to deploy real project
